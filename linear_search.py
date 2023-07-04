@@ -9,7 +9,7 @@ def linear_search(list1, item):
 
 
 #creating list
-list1 = [ 'e',1, 2, 3 ,4 , 5,'a','b','c','#','aman','atul','shantanu','@']
+list1 = ['e',1, 2, 3 ,4 , 5,'a','b','c','#','aman','atul','shantanu','@']
 
 #storing input value from the user
 item_input= input("Enter a number , letter , or name for search its index value: ")
